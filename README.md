@@ -1,4 +1,4 @@
 # git-skeleton
 
 
-Allegra Domel
+Allegra  Domel
