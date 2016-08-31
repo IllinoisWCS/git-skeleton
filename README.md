@@ -1,1 +1,2 @@
 # git-skeleton
+Emily Chao
