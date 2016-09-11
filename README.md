@@ -1,1 +1,2 @@
-# git-skeleton
+# git-skeleton 
+Hayne (Hye In) Kim
