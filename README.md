@@ -1,1 +1,1 @@
-# Add NetID.txt
+# readme.txt Nancy... this is very last minute
